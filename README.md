@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guille278&hide=javascript,html)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guille278&theme=dark&hide=javascript,html)]()
 <!--
 **guille278/guille278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
